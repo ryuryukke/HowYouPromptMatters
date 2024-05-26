@@ -42,7 +42,7 @@ We instruct three LMs to generate essays: GPT-4(`gpt-4-0613`), ChatGPT(`gpt-3.5-
 
 
 ## 📚 Citation
-#### If our work inspires you, please consider citing our work as follows:
+#### If you find our code/data/models or ideas useful in your research, please consider citing our work as follows:
 ```
 @misc{koike2024prompt,
       title={How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection}, 
