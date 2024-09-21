@@ -1,4 +1,4 @@
-# _How You Prompt Matters!_ Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection
+# _How You Prompt Matters!_
 ![](https://img.shields.io/badge/Made_with-json-blue.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2311.08369-b31b1b.svg)](https://arxiv.org/abs/2311.08369)
 [![LICENSE](https://img.shields.io/badge/License-Apache--2.0-green.svg)](https://github.com/ryuryukke/OUTFOX?tab=Apache-2.0-1-ov-file)
