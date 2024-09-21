@@ -46,12 +46,14 @@ We instruct three LMs to generate essays: GPT-4(`gpt-4-0613`), ChatGPT(`gpt-3.5-
 ## 📚 Citation
 #### If you find our data or ideas useful in your research, please consider citing our work as follows:
 ```
-@misc{koike2024prompt,
-      title={How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect LLM-Generated Text Detection}, 
-      author={Ryuto Koike and Masahiro Kaneko and Naoaki Okazaki},
-      year={2024},
-      eprint={2311.08369},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{Koike:EMNLPFindings2024, 
+  title={How You Prompt Matters! Even Task-Oriented Constraints in Instructions Affect {LLM}-Generated Text Detection}, 
+  author={Ryuto Koike and Masahiro Kaneko and Naoaki Okazaki}, 
+  booktitle="Findings of the Association for Computational Linguistics: EMNLP 2024", 
+  series={EMNLP}, 
+  pages="(to appear)", 
+  year="2024", 
+  month=nov, 
+  address={Miami, USA},
 }
 ```
