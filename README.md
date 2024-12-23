@@ -9,6 +9,9 @@
   <img src="https://github.com/ryuryukke/HowYouPromptMatters/assets/61570900/33aa87d9-b594-4a56-89b3-b39e82061d72" width="900"/>
 </p>
 
+## 💨 TL;DR
+_We found that current detectors are brittle to instruction changes in text generation and raised awareness of the need to ensure prompt diversity when creating a detection benchmark._
+
 ## 📖 Introduction
 To combat the misuse of Large Language Models (LLMs), many recent studies have presented LLM-generated-text detectors with highly promising performance.
 When users instruct LLMs to generate texts, the instruction can include different constraints depending on the user’s need.
@@ -27,7 +30,7 @@ Considering the remarkable speed of recent LLM development, the instruction-foll
 Therefore, in an era of evolving LLMs, our finding more strongly calls for further development of robust LLM detectors against such distribution shifts caused by a constraint in instruction.
 
 ## 📢 Updates
-- **Sep 2024**: Accepted to EMNLP 2024 Findings! See you in Miami🇺🇸
+- **Sep 2024**: 🎉 Accepted to EMNLP 2024 Findings! See you in Miami🇺🇸
 - **March 2024**: Our constrained essay datasets are now available!
 
 ## :page_facing_up: Dataset Info
