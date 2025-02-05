@@ -30,7 +30,7 @@ Considering the remarkable speed of recent LLM development, the instruction-foll
 Therefore, in an era of evolving LLMs, our finding more strongly calls for further development of robust LLM detectors against such distribution shifts caused by a constraint in instruction.
 
 ## 📢 Updates
-- **Sep 2024**: 🎉 Accepted to EMNLP 2024 Findings! See you in Miami🇺🇸
+- **Sep 2024**: 🎉 Accepted to EMNLP 2024 Findings! See you in Miami🇺🇸 [[Poster](https://drive.google.com/file/d/11gn3XkIL_YhmV7sQmG8NUD_E9obMlTH_/view)]
 - **March 2024**: Our constrained essay datasets are now available!
 
 ## :page_facing_up: Dataset Info
