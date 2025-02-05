@@ -34,7 +34,7 @@ Therefore, in an era of evolving LLMs, our finding more strongly calls for furth
 - **March 2024**: Our constrained essay datasets are now available!
 
 ## :page_facing_up: Dataset Info
-Our dataset is based on 500 pairs of essay problem statements and human(native-student)-written essays that are part of [OUTFOX dataset](https://github.com/ryuryukke/OUTFOX).
+Our dataset: HYPE is based on 500 pairs of essay problem statements and human(native-student)-written essays that are part of [OUTFOX dataset](https://github.com/ryuryukke/OUTFOX).
 The native students range from 6th to 12th grade in the U.S.
 
 We instruct three LMs to generate essays: GPT-4(`gpt-4-0613`), ChatGPT(`gpt-3.5-turbo-0613`), and GPT-3(`davinci-002`).
