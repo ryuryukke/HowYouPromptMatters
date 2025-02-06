@@ -10,7 +10,7 @@
 </p>
 
 ## 💨 TL;DR
-_We found that current detectors are brittle to instruction changes in text generation and raised awareness of the need to ensure prompt diversity when creating a detection benchmark._
+_We found that current detectors are brittle to instruction changes in text generation and raised awareness of the need to ensure prompt diversity when creating a detection benchmark. We additionally open-source the dataset consisting of LLM-generated essays via various instuctions._
 
 ## 📖 Introduction
 To combat the misuse of Large Language Models (LLMs), many recent studies have presented LLM-generated-text detectors with highly promising performance.
@@ -34,7 +34,7 @@ Therefore, in an era of evolving LLMs, our finding more strongly calls for furth
 - **March 2024**: Our constrained essay datasets are now available!
 
 ## :page_facing_up: Dataset Info
-Our dataset: HYPE is based on 500 pairs of essay problem statements and human(native-student)-written essays that are part of [OUTFOX dataset](https://github.com/ryuryukke/OUTFOX).
+Our dataset is based on 500 pairs of essay problem statements and human(native-student)-written essays that are part of [OUTFOX dataset](https://github.com/ryuryukke/OUTFOX).
 The native students range from 6th to 12th grade in the U.S.
 
 We instruct three LMs to generate essays: GPT-4(`gpt-4-0613`), ChatGPT(`gpt-3.5-turbo-0613`), and GPT-3(`davinci-002`).
