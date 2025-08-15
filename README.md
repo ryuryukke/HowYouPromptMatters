@@ -10,14 +10,14 @@
 </p>
 
 ## 💨 TL;DR
-_We found that current detectors are brittle to instruction changes in text generation and raised awareness of the need to ensure prompt diversity when creating a detection benchmark. We open-source the dataset consisting of LLM-generated essays via various instuctions._
+_We revealed that current detectors are brittle to instruction changes in text generation and raised awareness of the need to ensure prompt diversity when creating a detection benchmark. We open-source the dataset consisting of LLM-generated essays via various instructions._
 
 ## 📖 Introduction
 To combat the misuse of Large Language Models (LLMs), many recent studies have presented LLM-generated-text detectors with highly promising performance.
 When users instruct LLMs to generate texts, the instruction can include different constraints depending on the user’s need.
 However, most recent studies do not cover such diverse instruction patterns when creating datasets for LLM detection.
 
-In this paper, we find that **even _task-oriented_ constraints --- constraints that would naturally be included in an instruction and are not related to detection-evasion --- cause existing powerful detectors to have a large variance in detection performance**.
+In this paper, we uncover that **even _task-oriented_ constraints --- constraints that would naturally be included in an instruction and are not related to detection-evasion --- cause existing powerful detectors to have a large variance in detection performance**.
 We focus on student essay writing as a realistic domain and manually create task-oriented constraints based on several factors for essay quality.
 
 Our experiments and analysis show that:
